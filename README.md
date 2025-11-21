@@ -30,8 +30,7 @@ W folderze projektu:
 dotnet run -- build-db --db-dir "C:\db\fb5" --scripts-dir "C:\scripts"
 ```
 Przykład wywołania i efekt:
-<img width="1024" height="119" alt="image" src="https://github.com/user-attachments/assets/ae418a0d-ef9d-4e26-8cc7-77d3d0ff1903" />
-
+<img width="1093" height="164" alt="image" src="https://github.com/user-attachments/assets/64b1ac84-9ad8-4bf5-9b83-63d587d67c87" />
 
 #### b) Aktualizacja istniejącej bazy danych (update-db)
 Łączy się z bazą (w ramach transakcji) i wykonuje skrypty SQL. Pliki .sql są sortowane alfabetycznie, dlatego zaleca się nadawanie im numerów, np. 01_domains.sql, 02_tables.sql.
